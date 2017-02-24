@@ -1,4 +1,4 @@
-# OnPrem Front End "Homework" Assignment
+# Frameworkless Employee Directory Example
 
 Using the API provided in this repository, create a client-side application that can be used to add/edit/remove employees from the faux employee database.
 
